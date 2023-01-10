@@ -4,3 +4,5 @@ The video game industry has become one of the most profitable markets in the ent
 Over its many years online, Steam has amassed a plethora of reviews around its games. These reviews represent a great opportunity to break down the satisfaction and dissatisfaction factors around games and genres, as well sentiment over time.
 The purpose of our project is to predict the success rate of games in Steam and also retrieve accuracy based on Sentiment Analysis from user reviews in Steam.
 ## https://dg-ai.gitbook.io/video-games-success-prediction/
+
+### Amir Madvi Sabet  Debtanu Ganguly  Behnam Ahmadpour
