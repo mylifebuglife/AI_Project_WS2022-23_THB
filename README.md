@@ -7,7 +7,7 @@ The purpose of our project is to predict the success rate of games in Steam and 
 ## Project Report :
 
 ## https://dg-ai.gitbook.io/video-games-success-prediction/
-## Team :
+## Team 10 :
 ### - Amir Madvi Sabet  
 ### - Debtanu Ganguly  
 ### - Behnam Ahmadpour
